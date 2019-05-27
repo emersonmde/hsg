@@ -9,6 +9,12 @@ A simple grep tool using libhs Hyperscan regex engine
 
 ### Compiling
 
+Clone the repo
+```
+git clone git@github.com:emersonmde/hsg.git
+```
+
+Generate Makefile and build
 ```
 cmake .
 make
